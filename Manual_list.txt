@@ -1,0 +1,17 @@
+Você devem cria seguinte variável, que é uma lista de dicionários:
+
+lista_de_dicionarios = [{"nome":"andres","inicial":"AN","final":"ES"}
+                       ,{"nome":"levi","inicial":"LE","final":"VI"}
+                       ,{"nome":"nicolas","inicial":"NI","final":"AS"}
+                       ,{"nome":"robson","inicial":"RO","final":"ON"}
+                       ,{"nome":"thiago","inicial":"TH","final":"GO"}
+                       ,{"nome":"giovany","inicial":"gi","final":"ny"}]
+
+1. Crie uma lista somente com os nomes dos dicionários usando "list comprehension" e print os valores dessa lista:
+2. Print o type da lista e o retorno deve ser "list"
+3. Crie um dicionário que deve conter nome, inicial, final usando "dict comprehension" e print: 
+                 A. Somente as chaves dos dicionários
+                 B. O nome com inicial
+                 C. O nome com final
+   4. Print somente o seu nome com inicial
+   5. Print Somente o seu nome com final. 
